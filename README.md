@@ -1,4 +1,4 @@
-# 🔬 DeepResearch Agent
+#  DeepResearch Agent
 
 > A stateful multi-agent research assistant built with LangGraph.js, demonstrating production-grade agentic AI architecture.
 
